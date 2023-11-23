@@ -19,3 +19,7 @@ C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\NoteBook.ex
 C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\NoteBook.pdb
 C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\bin\Debug\Images\school.png
 C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\NoteBook_Content.g.cs
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\EditUnitsWindow.g.cs
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\EditUnitsWindow.baml
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\EditEducationalElementWindow.g.cs
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\EditEducationalElementWindow.baml

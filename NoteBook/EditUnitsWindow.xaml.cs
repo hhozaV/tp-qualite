@@ -10,25 +10,24 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace NoteBook
 {
     /// <summary>
-    /// Logique d'interaction pour MainWindow.xaml
+    /// Logique d'interaction pour EditUnitsWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class EditUnitsWindow : Window
     {
-        public MainWindow()
+        public EditUnitsWindow()
         {
             InitializeComponent();
         }
 
-        private void SaisirMatieres(object sender, RoutedEventArgs e)
+        private void EditUE(object sender, RoutedEventArgs e)
         {
-            EditUnitsWindow editUnitsWindow = new EditUnitsWindow();
-            editUnitsWindow.Show();
+            EditEducationalElementWindow editEducationalElementWindow = new EditEducationalElementWindow();
+            editEducationalElementWindow.Show();
         }
     }
 }
