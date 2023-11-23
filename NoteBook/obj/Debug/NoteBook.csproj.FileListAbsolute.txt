@@ -17,3 +17,5 @@ C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\NoteBook.cs
 C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\NoteBook.csproj.CopyComplete
 C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\NoteBook.exe
 C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\bin\Debug\Images\school.png
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\NoteBook\obj\Debug\NoteBook_Content.g.cs

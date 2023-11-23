@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NoteBook"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="NoteBook" Height="450" Width="800">
     <Grid>
-        
+        <Image Source="/NoteBook;component/Images/school.png" HorizontalAlignment="Left" Height="149" Margin="84,164,0,0" VerticalAlignment="Top" Width="202"/>
+        <Button Content="Saisir les matières" HorizontalAlignment="Left" Height="38" Margin="477,121,0,0" VerticalAlignment="Top" Width="218"/>
+        <Button Content="Rentrer un examen" HorizontalAlignment="Left" Height="38" Margin="477,217,0,0" VerticalAlignment="Top" Width="218"/>
+        <Button Content="Afficher les moyennes" HorizontalAlignment="Left" Height="38" Margin="477,300,0,0" VerticalAlignment="Top" Width="218"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="20" Margin="120,108,0,0" TextWrapping="Wrap" Text="Notebook" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
