@@ -1,0 +1,6 @@
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\Logic\bin\Debug\Logic.dll
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\Logic\bin\Debug\Logic.pdb
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\Logic\obj\Debug\Logic.dll
+C:\Users\mb137582\Desktop\TP3 Qualité\tp-qualite\Logic\obj\Debug\Logic.pdb
